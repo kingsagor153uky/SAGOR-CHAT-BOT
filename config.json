@@ -8,17 +8,17 @@
   "allowInbox": false,
   "notiGroup": true,
   "NOTIFICATION": true,
-  "EMAIL": "your email",
-  "PASSWORD": "your password",
+  "EMAIL": "djsagor153@gmail.com",
+  "PASSWORD": "Sagor@@@",
   "OTPKEY": "",
-  "BOTNAME": "─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
-  "PREFIX": "/",
+  "BOTNAME": "Jerry chat bot",
+  "PREFIX": "/!",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
-    "100001039692046",
-    "61586663640809",
-    "100044713412032"
+    "61568607544765",
+    "61568607544765",
+    "61568607544765"
   ],
   "NDH": ["100044713412032"],
   "adminOnly": false,
